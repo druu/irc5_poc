@@ -1,0 +1,396 @@
+Server Started : 2011-09-20 19:00:07
+Master socket  : Resource id #5
+Listening on   : 85.25.146.135 port 12345
+
+client connected
+User Object
+(
+    [id] => 4e78c6ab22220
+    [socket] => Resource id #6
+    [handshake] => 
+    [ircSocket] => 
+)
+
+Resource id #6 CONNECTED!
+
+Requesting handshake...
+GET /IRC5/tServer.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: crushhour.net:12345
+Sec-WebSocket-Origin: http://crushhour.net
+Sec-WebSocket-Key: /gatcWh25HE42+50S5iYGw==
+Sec-WebSocket-Version: 8
+
+
+
+Notice: Undefined variable: key1 in /var/www/vhosts/crushhour.net/httpdocs/IRC5/tServer.php on line 192
+
+Notice: Undefined variable: key2 in /var/www/vhosts/crushhour.net/httpdocs/IRC5/tServer.php on line 192
+Handshaking...
+failed
+Resource id #6 DISCONNECTED!
+client connected
+User Object
+(
+    [id] => 4e78c6acb99d5
+    [socket] => Resource id #7
+    [handshake] => 
+    [ircSocket] => 
+)
+
+Resource id #7 CONNECTED!
+
+Requesting handshake...
+GET /IRC5/tServer.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: crushhour.net:12345
+Sec-WebSocket-Origin: http://crushhour.net
+Sec-WebSocket-Key: wnF5FcOVQbWPQsvZ7UvfBQ==
+Sec-WebSocket-Version: 8
+
+
+
+Notice: Undefined variable: key1 in /var/www/vhosts/crushhour.net/httpdocs/IRC5/tServer.php on line 192
+
+Notice: Undefined variable: key2 in /var/www/vhosts/crushhour.net/httpdocs/IRC5/tServer.php on line 192
+Handshaking...
+failed
+Resource id #7 DISCONNECTED!
+client connected
+User Object
+(
+    [id] => 4e78c6adea866
+    [socket] => Resource id #8
+    [handshake] => 
+    [ircSocket] => 
+)
+
+Resource id #8 CONNECTED!
+
+Requesting handshake...
+GET /IRC5/tServer.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: crushhour.net:12345
+Sec-WebSocket-Origin: http://crushhour.net
+Sec-WebSocket-Key: 8+uAm8sRD6Iiu/dogHHnnQ==
+Sec-WebSocket-Version: 8
+
+
+
+Notice: Undefined variable: key1 in /var/www/vhosts/crushhour.net/httpdocs/IRC5/tServer.php on line 192
+
+Notice: Undefined variable: key2 in /var/www/vhosts/crushhour.net/httpdocs/IRC5/tServer.php on line 192
+Handshaking...
+failed
+Resource id #8 DISCONNECTED!
+client connected
+User Object
+(
+    [id] => 4e78c6af1397d
+    [socket] => Resource id #9
+    [handshake] => 
+    [ircSocket] => 
+)
+
+Resource id #9 CONNECTED!
+
+Requesting handshake...
+GET /IRC5/tServer.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: crushhour.net:12345
+Sec-WebSocket-Origin: http://crushhour.net
+Sec-WebSocket-Key: PNpxfFNLMaUPRGNox8hBWA==
+Sec-WebSocket-Version: 8
+
+
+
+Notice: Undefined variable: key1 in /var/www/vhosts/crushhour.net/httpdocs/IRC5/tServer.php on line 192
+
+Notice: Undefined variable: key2 in /var/www/vhosts/crushhour.net/httpdocs/IRC5/tServer.php on line 192
+Handshaking...
+failed
+Resource id #9 DISCONNECTED!
+client connected
+User Object
+(
+    [id] => 4e78c6b5d505e
+    [socket] => Resource id #10
+    [handshake] => 
+    [ircSocket] => 
+)
+
+Resource id #10 CONNECTED!
+
+Requesting handshake...
+GET /IRC5/tServer.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: crushhour.net:12345
+Sec-WebSocket-Origin: http://crushhour.net
+Sec-WebSocket-Key: WRMFP7HnukVUjgIV01XtAg==
+Sec-WebSocket-Version: 8
+
+
+
+Notice: Undefined variable: key1 in /var/www/vhosts/crushhour.net/httpdocs/IRC5/tServer.php on line 192
+
+Notice: Undefined variable: key2 in /var/www/vhosts/crushhour.net/httpdocs/IRC5/tServer.php on line 192
+Handshaking...
+failed
+Resource id #10 DISCONNECTED!
+client connected
+User Object
+(
+    [id] => 4e78c6b6aa216
+    [socket] => Resource id #11
+    [handshake] => 
+    [ircSocket] => 
+)
+
+Resource id #11 CONNECTED!
+
+Requesting handshake...
+GET /IRC5/tServer.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: crushhour.net:12345
+Sec-WebSocket-Origin: http://crushhour.net
+Sec-WebSocket-Key: 3yfamF/Q/GdrSfITRp/S8w==
+Sec-WebSocket-Version: 8
+
+
+
+Notice: Undefined variable: key1 in /var/www/vhosts/crushhour.net/httpdocs/IRC5/tServer.php on line 192
+
+Notice: Undefined variable: key2 in /var/www/vhosts/crushhour.net/httpdocs/IRC5/tServer.php on line 192
+Handshaking...
+failed
+Resource id #11 DISCONNECTED!
+client connected
+User Object
+(
+    [id] => 4e78c6b75fdb7
+    [socket] => Resource id #12
+    [handshake] => 
+    [ircSocket] => 
+)
+
+Resource id #12 CONNECTED!
+
+Requesting handshake...
+GET /IRC5/tServer.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: crushhour.net:12345
+Sec-WebSocket-Origin: http://crushhour.net
+Sec-WebSocket-Key: iynplY3lWR0tR++4ub8YQg==
+Sec-WebSocket-Version: 8
+
+
+
+Notice: Undefined variable: key1 in /var/www/vhosts/crushhour.net/httpdocs/IRC5/tServer.php on line 192
+
+Notice: Undefined variable: key2 in /var/www/vhosts/crushhour.net/httpdocs/IRC5/tServer.php on line 192
+Handshaking...
+failed
+Resource id #12 DISCONNECTED!
+client connected
+User Object
+(
+    [id] => 4e78c6b7cf5b1
+    [socket] => Resource id #13
+    [handshake] => 
+    [ircSocket] => 
+)
+
+Resource id #13 CONNECTED!
+
+Requesting handshake...
+GET /IRC5/tServer.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: crushhour.net:12345
+Sec-WebSocket-Origin: http://crushhour.net
+Sec-WebSocket-Key: wrcgIdT52kethJVizUeGQQ==
+Sec-WebSocket-Version: 8
+
+
+
+Notice: Undefined variable: key1 in /var/www/vhosts/crushhour.net/httpdocs/IRC5/tServer.php on line 192
+
+Notice: Undefined variable: key2 in /var/www/vhosts/crushhour.net/httpdocs/IRC5/tServer.php on line 192
+Handshaking...
+failed
+Resource id #13 DISCONNECTED!
+client connected
+User Object
+(
+    [id] => 4e78c6bbecf78
+    [socket] => Resource id #14
+    [handshake] => 
+    [ircSocket] => 
+)
+
+Resource id #14 CONNECTED!
+
+Requesting handshake...
+GET /IRC5/tServer.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: crushhour.net:12345
+Sec-WebSocket-Origin: http://crushhour.net
+Sec-WebSocket-Key: Y2GaRuaojraknjkF9btb7A==
+Sec-WebSocket-Version: 8
+
+
+
+Notice: Undefined variable: key1 in /var/www/vhosts/crushhour.net/httpdocs/IRC5/tServer.php on line 192
+
+Notice: Undefined variable: key2 in /var/www/vhosts/crushhour.net/httpdocs/IRC5/tServer.php on line 192
+Handshaking...
+failed
+Resource id #14 DISCONNECTED!
+client connected
+User Object
+(
+    [id] => 4e78c6bcc7ad8
+    [socket] => Resource id #15
+    [handshake] => 
+    [ircSocket] => 
+)
+
+Resource id #15 CONNECTED!
+
+Requesting handshake...
+GET /IRC5/tServer.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: crushhour.net:12345
+Sec-WebSocket-Origin: http://crushhour.net
+Sec-WebSocket-Key: x3B/sezIcDopDYC6c98Xrw==
+Sec-WebSocket-Version: 8
+
+
+
+Notice: Undefined variable: key1 in /var/www/vhosts/crushhour.net/httpdocs/IRC5/tServer.php on line 192
+
+Notice: Undefined variable: key2 in /var/www/vhosts/crushhour.net/httpdocs/IRC5/tServer.php on line 192
+Handshaking...
+failed
+Resource id #15 DISCONNECTED!
+client connected
+User Object
+(
+    [id] => 4e78c6bf1bc3d
+    [socket] => Resource id #16
+    [handshake] => 
+    [ircSocket] => 
+)
+
+Resource id #16 CONNECTED!
+
+Requesting handshake...
+GET /IRC5/tServer.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: crushhour.net:12345
+Sec-WebSocket-Origin: http://crushhour.net
+Sec-WebSocket-Key: CFPyF4l74xe6wFIKzBeTHQ==
+Sec-WebSocket-Version: 8
+
+
+
+Notice: Undefined variable: key1 in /var/www/vhosts/crushhour.net/httpdocs/IRC5/tServer.php on line 192
+
+Notice: Undefined variable: key2 in /var/www/vhosts/crushhour.net/httpdocs/IRC5/tServer.php on line 192
+Handshaking...
+failed
+Resource id #16 DISCONNECTED!
+client connected
+User Object
+(
+    [id] => 4e78c6bfc003e
+    [socket] => Resource id #17
+    [handshake] => 
+    [ircSocket] => 
+)
+
+Resource id #17 CONNECTED!
+
+Requesting handshake...
+GET /IRC5/tServer.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: crushhour.net:12345
+Sec-WebSocket-Origin: http://crushhour.net
+Sec-WebSocket-Key: Y3keJzn/JMrtj4iVUTxgHg==
+Sec-WebSocket-Version: 8
+
+
+
+Notice: Undefined variable: key1 in /var/www/vhosts/crushhour.net/httpdocs/IRC5/tServer.php on line 192
+
+Notice: Undefined variable: key2 in /var/www/vhosts/crushhour.net/httpdocs/IRC5/tServer.php on line 192
+Handshaking...
+failed
+Resource id #17 DISCONNECTED!
+client connected
+User Object
+(
+    [id] => 4e78c6c07b930
+    [socket] => Resource id #18
+    [handshake] => 
+    [ircSocket] => 
+)
+
+Resource id #18 CONNECTED!
+
+Requesting handshake...
+GET /IRC5/tServer.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: crushhour.net:12345
+Sec-WebSocket-Origin: http://crushhour.net
+Sec-WebSocket-Key: MBh8rHbpqfPiL0ghGeXx7w==
+Sec-WebSocket-Version: 8
+
+
+
+Notice: Undefined variable: key1 in /var/www/vhosts/crushhour.net/httpdocs/IRC5/tServer.php on line 192
+
+Notice: Undefined variable: key2 in /var/www/vhosts/crushhour.net/httpdocs/IRC5/tServer.php on line 192
+Handshaking...
+failed
+Resource id #18 DISCONNECTED!
+client connected
+User Object
+(
+    [id] => 4e78c6c1120b9
+    [socket] => Resource id #19
+    [handshake] => 
+    [ircSocket] => 
+)
+
+Resource id #19 CONNECTED!
+
+Requesting handshake...
+GET /IRC5/tServer.php HTTP/1.1
+Upgrade: websocket
+Connection: Upgrade
+Host: crushhour.net:12345
+Sec-WebSocket-Origin: http://crushhour.net
+Sec-WebSocket-Key: Z3A3UA7CX4kBa7uYUUflRA==
+Sec-WebSocket-Version: 8
+
+
+
+Notice: Undefined variable: key1 in /var/www/vhosts/crushhour.net/httpdocs/IRC5/tServer.php on line 192
+
+Notice: Undefined variable: key2 in /var/www/vhosts/crushhour.net/httpdocs/IRC5/tServer.php on line 192
+Handshaking...
+failed
+Resource id #19 DISCONNECTED!

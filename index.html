@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> IRC5 - Proof of concept</title>
+  <link rel="stylesheet" href="css/application.css" type="text/css" charset="utf-8">
+
+</head>
+<body>
+  <header id="title">
+    <h1>IRC5 - proof of concept</h1>
+  </header>
+  
+  <div id="wrapper">
+  
+  <div id="contacts">
+	<ul class="options">
+		<li><input type="text" id="ircNICK" value="[ws]_druu"></li>
+		<li><input type="text" id="ircCHAN" value="#codeigniter"></li>
+		<li class="ircConnect">Connect</li>
+      </ul>
+    
+      <div class="content"></div>
+	  <footer><input type="text" id="ircMSG" autofocus></footer>
+  </div>
+
+  <div class="vdivide"></div>
+
+  
+<div id="sidebar">
+    <div class="search">
+      <input type="search" placeholder="Search" results="0" incremental="true" >
+    </div>
+
+    <ul class="items">
+    </ul>
+
+    <footer>
+      <button>New contact</button>
+    </footer>
+  </div>
+
+  </div>
+
+  <script src="lib/jquery.js" type="text/javascript" charset="utf-8"></script>
+  <script src="js/irc5.js" type="text/javascript" charset="utf-8"></script>
+
+</body>
+</html>
